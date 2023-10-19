@@ -58,42 +58,42 @@
         $carro5->status     ="Disponível";
 
 
-        echo "Carro". $carro0->$status . ": <br/><br/>";
+        echo "Carro". $carro0->status . ": <br/><br/>";
         echo "Fabricante do carro: ". $carro0->fabricante . "<br />
             Modelo: ". $carro0->modelo . "<br />
             de Cor: ". $carro0->cor . "<br />
             Ano: ". $carro0->ano . "<br /> <hr>";
 
 
-        echo "Carro". $carro1->$status . ": <br/><br/>";
+        echo "Carro". $carro1->status . ": <br/><br/>";
         echo "Fabricante do carro: ". $carro1->fabricante . "<br />
             Modelo: ". $carro1->modelo . "<br />
             de Cor: ". $carro1->cor . "<br />
             Ano: ". $carro1->ano . "<br /> <hr>";
 
         
-        echo "Carro". $carro2->$status . ": <br/><br/>";
+        echo "Carro". $carro2->status . ": <br/><br/>";
         echo "Fabricante do carro: ". $carro2->fabricante . "<br />
             Modelo: ". $carro2->modelo . "<br />
             de Cor: ". $carro2->cor . "<br />
             Ano: ". $carro2->ano . "<br /> <hr>";
 
 
-        echo "Carro". $carro3->$status . ": <br/><br/>";
+        echo "Carro". $carro3->status . ": <br/><br/>";
         echo "Fabricante do carro: ". $carro3->fabricante . "<br />
             Modelo: ". $carro3->modelo . "<br />
             de Cor: ". $carro3->cor . "<br />
             Ano: ". $carro3->ano . "<br /> <hr>";
 
 
-        echo "Carro". $carro4->$status . ": <br/><br/>";
+        echo "Carro". $carro4->status . ": <br/><br/>";
         echo "Fabricante do carro: ". $carro4->fabricante . "<br />
             Modelo: ". $carro4->modelo . "<br />
             de Cor: ". $carro4->cor . "<br />
             Ano: ". $carro4->ano . "<br /> <hr>";
             
 
-        echo "Carro". $carro5->$status . ": <br/><br/>";
+        echo "Carro". $carro5->status . ": <br/><br/>";
         echo "Fabricante do carro: ". $carro5->fabricante . "<br />
             Modelo: ". $carro5->modelo . "<br />
             de Cor: ". $carro5->cor . "<br />
