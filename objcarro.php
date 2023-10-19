@@ -27,7 +27,7 @@
 
         $carro2 = new carro();
 
-        $carro2->ano        = "2024";
+        $carro2->ano        = "1975";
         $carro2->modelo     ="Série 3";
         $carro2->cor        ="Prata";
         $carro2->fabricante ="Bmw";
@@ -35,7 +35,7 @@
 
         $carro3 = new carro();
 
-        $carro3->ano        = "2023";
+        $carro3->ano        = "2007";
         $carro3->modelo     ="GranTurismo";
         $carro3->cor        ="Verde";
         $carro3->fabricante ="Maserati";
@@ -43,7 +43,7 @@
 
         $carro4 = new carro();
 
-        $carro4->ano        = "2022";
+        $carro4->ano        = "2019";
         $carro4->modelo     ="Roma";
         $carro4->cor        ="Vermelha";
         $carro4->fabricante ="Ferrari";
@@ -51,7 +51,7 @@
 
         $carro5 = new carro();
 
-        $carro5->ano        = "2023";
+        $carro5->ano        = "2011";
         $carro5->modelo     ="Aventador";
         $carro5->cor        ="Azul";
         $carro5->fabricante ="Lamborghini";
