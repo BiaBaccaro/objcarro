@@ -15,7 +15,7 @@
         $carro0->modelo     ="C4 VTR";
         $carro0->cor        ="Preto";
         $carro0->fabricante ="Citroen";
-        $carro0->status     ="Disponível";
+        $carro0->status     ="Disponivel";
 
         $carro1 = new carro();
 
@@ -23,7 +23,7 @@
         $carro1->modelo     ="Corcel 2";
         $carro1->cor        ="Amarelo";
         $carro1->fabricante ="Ford";
-        $carro1->status     ="Disponível";
+        $carro1->status     ="Disponivel";
 
         $carro2 = new carro();
 
@@ -31,7 +31,7 @@
         $carro2->modelo     ="Série 3";
         $carro2->cor        ="Prata";
         $carro2->fabricante ="Bmw";
-        $carro2->status     ="Disponível";
+        $carro2->status     ="Disponivel";
 
         $carro3 = new carro();
 
@@ -39,7 +39,7 @@
         $carro3->modelo     ="GranTurismo";
         $carro3->cor        ="Verde";
         $carro3->fabricante ="Maserati";
-        $carro3->status     ="Disponível";
+        $carro3->status     ="Disponivel";
 
         $carro4 = new carro();
 
@@ -47,7 +47,7 @@
         $carro4->modelo     ="Roma";
         $carro4->cor        ="Vermelha";
         $carro4->fabricante ="Ferrari";
-        $carro4->status     ="Disponível";
+        $carro4->status     ="Disponivel";
 
         $carro5 = new carro();
 
@@ -55,7 +55,7 @@
         $carro5->modelo     ="Aventador";
         $carro5->cor        ="Azul";
         $carro5->fabricante ="Lamborghini";
-        $carro5->status     ="Disponível";
+        $carro5->status     ="Disponivel";
 
 
         echo "Carro". $carro0->status . ": <br/><br/>";
