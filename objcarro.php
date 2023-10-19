@@ -15,7 +15,7 @@
         $carro0->modelo     ="C4 VTR";
         $carro0->cor        ="Preto";
         $carro0->fabricante ="Citroen";
-        $carro0->status     ="Disponivel";
+        $carro0->status     = "Disponivel";
 
         $carro1 = new carro();
 
