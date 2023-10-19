@@ -27,7 +27,7 @@
 
         $carro2 = new carro();
 
-        $carro2->ano        = "1975";
+        $carro2->ano        = "2014";
         $carro2->modelo     ="Série 3";
         $carro2->cor        ="Prata";
         $carro2->fabricante ="Bmw";
